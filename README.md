@@ -1,5 +1,3 @@
-# AlexNet
-
 ## Introduction
 This project demonstrates how to build and train AlexNet on TensorFlow, with a focus on comparing the performance of two different optimizers: SGD and Adam.
 
